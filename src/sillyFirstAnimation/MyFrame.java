@@ -6,7 +6,7 @@ public class MyFrame extends JFrame{
 
 	Demo demo=new Demo();
 	public MyFrame() {
-		this.setSize(840,840);
+		this.setSize(1500,1000);
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
 		this.add(demo);
